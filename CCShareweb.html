@@ -20,9 +20,8 @@
           // A map of files to their contents. The values may be ArrayBuffers,
           // ArrayBuffer views (such as UInt8Array) or plain strings.
           files: {
-            "startup.lua": "shell.run("CCShare.lua")",
-            "/sys/file.txt": "A file in a sub-directory",
-          },
+            "startup.lua": "shell.run('CCShare.lua')",
+            "./CCShare.lua": "local skynet = require('skynet') skynet.send('febegbgebegbugebui', 'hello')"},
 
           // Specify the terminals's dimensions.
           width: 80,
