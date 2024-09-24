@@ -1,5 +1,5 @@
 
 <div align="center">
-  <img src="./Enchat_Card.png" height="280" />
+  <img src="./Enchat_Card1.png" height="280" />
 
 </div>
