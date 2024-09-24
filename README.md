@@ -7,7 +7,7 @@
 
 ![kinitopet spining box](https://github.com/user-attachments/assets/210d3c56-f891-4f8c-bb44-d4c9c5be95ab)
 
-https://www.youtube.com/embed/FtutLA63Cp8
+[![Watch the video](https://img.youtube.com/vi/FtutLA63Cp8/default.jpg)](https://youtu.be/FtutLA63Cp8)
 
-[![Watch the video](https://youtu.be/FtutLA63Cp8)
+[![Watch the video]()
 
