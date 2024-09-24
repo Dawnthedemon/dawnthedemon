@@ -5,4 +5,4 @@
 
 ![Dawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnthedemon&show_icons=true&theme=transparent)
 
-![kinitopet-example](https://github.com/user-attachments/assets/210d3c56-f891-4f8c-bb44-d4c9c5be95ab)
+![kinitopet spining box](https://github.com/user-attachments/assets/210d3c56-f891-4f8c-bb44-d4c9c5be95ab)
