@@ -4,6 +4,3 @@
 </div>
 
 ![Dawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnthedemon&show_icons=true&theme=transparent)
-
-
-![my website](https://dawnthedemon.vercel.app)
