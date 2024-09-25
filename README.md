@@ -9,3 +9,4 @@
 
 [![Watch the video](https://img.youtube.com/vi/FtutLA63Cp8/default.jpg)](https://youtu.be/FtutLA63Cp8)
 
+[Go to the Support Web Site](https://support.west-wind.com)
