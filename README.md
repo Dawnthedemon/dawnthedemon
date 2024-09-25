@@ -9,5 +9,3 @@
 
 [![Watch the video](https://img.youtube.com/vi/FtutLA63Cp8/default.jpg)](https://youtu.be/FtutLA63Cp8)
 
-[![Watch the video]()
-
