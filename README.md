@@ -9,4 +9,4 @@
 
 [![Watch the video](https://img.youtube.com/vi/FtutLA63Cp8/default.jpg)](https://youtu.be/FtutLA63Cp8)
 
-![Profile](https://www.canva.com/design/DAGRyaphGmA/_U8iVRHmL4z1GpqaZ4YEiQ/watch)
+![Profile](GitHub_Profile-ezgif.com-video-to-gif-converter.gif)
