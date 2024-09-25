@@ -2,8 +2,6 @@
 <div align="center">
   <img src="./Enchat_Card1.png" height="280" />
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGRyaphGmA&#x2F;_U8iVRHmL4z1GpqaZ4YEiQ&#x2F;watch?utm_content=DAGRyaphGmA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">GitHub Profile</a> by Patton Torbett
-</div>
 
 ![Dawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnthedemon&show_icons=true&theme=transparent)
 
