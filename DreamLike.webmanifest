@@ -1,0 +1,23 @@
+{
+    "name": "Dream Like - By Dawnthedemon",
+    "short_name": "Dream Like",
+    "description": "A game about dreams, with changing levels and a story.",
+    "icons": [
+      {
+        "src": "icons/icon-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      // …
+      {
+        "src": "icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/DreamLike.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
+  
