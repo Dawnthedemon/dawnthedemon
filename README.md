@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img src="https://github.com/Dawnthedemon/dawnthedemon/BDNS BIO (6).gif" height="600" />
-</div>
+![BIO](https://github.com/Dawnthedemon/dawnthedemon/blob/main/BDNS%20BIO%20(6).gif)
 
 ![Dawns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawnthedemon&show_icons=true&theme=transparent)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dz7cmdh2b7nfwer6tml5nwkjha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=8c00ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dz7cmdh2b7nfwer6tml5nwkjha&redirect=true)
